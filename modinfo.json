@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "stop_webs_from_hiding_items",
+    "name": "stop webs from hiding items",
+    "authors": [ "Arendeth" ],
+    "maintainers": [ "Arendeth" ],
+    "description": "expermental tweak to hopefully allow items to be seen at same time as webs",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]

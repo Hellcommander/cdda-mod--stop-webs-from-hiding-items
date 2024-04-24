@@ -1,0 +1,14 @@
+[
+  {
+    "id": "fd_web",
+	"type": "field_type",
+	"copy-from": "fd_web",
+	"display_items": true
+  },
+    {
+    "id": "fd_void_web",
+	"type": "field_type",
+	"copy-from": "fd_void_web",
+	"display_items": true
+  }
+]
